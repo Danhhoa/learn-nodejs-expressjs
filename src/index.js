@@ -1,4 +1,4 @@
-import { engine } from 'express-handlebars';
+import {engine}  from 'express-handlebars';
 import path from 'path'
 import express  from 'express';
 import morgan  from 'morgan';
